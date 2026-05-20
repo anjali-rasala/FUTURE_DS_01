@@ -32,3 +32,9 @@ Analyze business Sales data to identify revenue trends, top-selling products, ca
   - Power BI Dashboard(.pbix)
   - Dataset
   - Dashboard Screenshor
+
+  ## Dashboard Preview
+
+![Dashboard](## Dashboard Preview
+
+![Dashboard]()
