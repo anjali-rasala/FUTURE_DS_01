@@ -37,4 +37,4 @@ Analyze business Sales data to identify revenue trends, top-selling products, ca
 
 ![Dashboard](## Dashboard Preview
 
-![Dashboard]()
+![Dashboard](https://github.com/anjali-rasala/FUTURE_DS_01/blob/main/Screenshot%20(152).png?raw=true)
